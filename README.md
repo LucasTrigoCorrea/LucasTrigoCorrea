@@ -1,4 +1,4 @@
-# LucasTrigo.dev
+# LucasTrigoCorrea
 
 - Hi, I'm Lucas Trigo Correa
 - Student analysis and systems development
