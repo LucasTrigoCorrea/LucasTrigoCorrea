@@ -1,6 +1,4 @@
 ## Hey guys, i'm Lucas Trigo Correa
-
- 
  
 ## 📘🤓 I’m currently learning ... and working 🛠️ with 
 &nbsp;
