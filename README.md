@@ -1,4 +1,4 @@
-## Hey guys, i'm Lucas Trigo Correa
+## Hello World, I'm Lucas Trigo Correa
  
 ## 📘🤓 I’m currently learning ... and working 🛠️ with 
  - ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
